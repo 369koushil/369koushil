@@ -1,3 +1,4 @@
+<img src="github-contribution-grid-snake.svg"/>
 <h1 ><b>Hi, I'm Koushil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </br>
 <p >
@@ -48,5 +49,7 @@
 <a href="mailto:koushil463@gmail.com"><img src="https://img.shields.io/badge/-koushil463@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
+
+<br></br>
 
 
