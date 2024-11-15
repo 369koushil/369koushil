@@ -52,4 +52,7 @@
 
 <br></br>
 
+### Work should feel like play to you so no-one can compete with you
+<p align="right"><i>- Naval Ravikant</i></p>
+
 
