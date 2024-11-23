@@ -10,7 +10,7 @@
 - :technologist: I love to solve `Problems` by coding.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1WZj2DOHNZfWoMs8cQDdYUANXLH7PqxgZ/view?usp=drivesdk).
+- :thinking: I’m currently open for a new `job opportunity and internship`, this is [MY RESUME](https://drive.google.com/file/d/1WZj2DOHNZfWoMs8cQDdYUANXLH7PqxgZ/view?usp=drivesdk).
 - :boom: You can visit [MY WEBSITE](https://koushil.vercel.app/).
 <br></br>
 ## 🛠 &nbsp;Tech Stack, Languages and Tools
