@@ -11,7 +11,7 @@
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity and internship`, this is [MY RESUME](https://drive.google.com/file/d/1kWVQrgB764AJimkfRjuyikexMUHHusRb/view).
-- :boom: You can visit [MY WEBSITE](https://koushil.vercel.app/).
+- :boom: You can visit [MY WEBSITE](https://koushil369.vercel.app/).
 <br></br>
 ## 🛠 &nbsp;Tech Stack, Languages and Tools
 ![HTML](https://camo.githubusercontent.com/cb12cf511fc88eb02cd4309471ce44e7370668870270d63e4148584cfcca8db0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)&nbsp;
