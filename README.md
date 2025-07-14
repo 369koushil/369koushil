@@ -6,7 +6,7 @@
 </br></p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
-- :school: I am a `3rd year student` at [VIT AP](https://vitap.ac.in/).
+- :school: I am a `final year CSE  graduate` at [VIT AP](https://vitap.ac.in/).
 - :technologist: I love to solve `Problems` by coding.
 - :student: I’m currently learning `Computer Science`.
 - :nerd_face: Always `learning new things`.
