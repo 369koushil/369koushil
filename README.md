@@ -8,7 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me 
 - :school: I am a `final year CSE graduate` at [VIT AP](https://vitap.ac.in/).
 - :technologist: I love to solve `Problems` by coding.
-- :student: I’m currently learning `Computer Science`.
+- :student: I’m currently learning `Machine learning`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity and internship`, this is [MY RESUME](https://drive.google.com/file/d/1kWVQrgB764AJimkfRjuyikexMUHHusRb/view).
 - :boom: You can visit [MY WEBSITE](https://koushil.xyz/).
