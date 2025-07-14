@@ -10,7 +10,7 @@
 - :technologist: I love to solve `Problems` by coding.
 - :student: I’m currently learning `Machine learning`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity and internship`, this is [MY RESUME](https://drive.google.com/file/d/1kWVQrgB764AJimkfRjuyikexMUHHusRb/view).
+- :thinking: I’m currently open for a new `job opportunity and internship`, this is [MY RESUME](https://drive.google.com/file/d/11NiOj57F3xU_bzQ55sZPnzkIkM_rTOzX/view?usp=sharing).
 - :boom: You can visit [MY WEBSITE](https://koushil.xyz/).
 <br></br>
 ## 🛠 &nbsp;Tech Stack, Languages and Tools
