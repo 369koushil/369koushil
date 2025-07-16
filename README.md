@@ -43,6 +43,10 @@
 
 <br></br>
 
+<p align="center">
+ <a href="https://github.com/Koushil"><img src="https://komarev.com/ghpvc/?username=Koushil&color=blue" alt="Profile views"></a>
+</p>
+
 <h2> Work should feel like play to you so no-one can compete with you</h2>
 <p align="right"><i>- Naval Ravikant</i></p>
 
