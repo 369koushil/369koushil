@@ -13,17 +13,6 @@
 - 🌐 Personal Website: [koushil.xyz](https://koushil.xyz/)  
 - ⚡ Fun fact: I think work should feel like play — that's how you win!
 
----
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Koushil&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Koushil" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=Koushil&theme=radical&hide_border=true" alt="Koushil" /></td>
-  </tr>
-</table>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
