@@ -9,7 +9,7 @@
 - 👨‍💻 Full Stack Developer | Tech Geek | Physics Enthusiast  
 - 🌱 Currently learning Machine Learning & improving problem-solving  
 - 📫 How to reach me: **koushil463@gmail.com**  
-- 💼 Looking for full-time roles and internships — [My Resume](https://drive.google.com/file/)  
+- 💼 Looking for full-time roles and internships — [My Resume](https://drive.google.com/file/d/11Ni0j57F3xU_bzQ55sZPnzkIkM_rT0zX/view?usp=sharing)  
 - 🌐 Personal Website: [koushil.xyz](https://koushil.xyz/)  
 - ⚡ Fun fact: I think work should feel like play — that's how you win!
 
