@@ -33,12 +33,6 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS" width="30px" />
   </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" width="30px" />
-  </a>
-  <a href="https://turbo.build/repo" target="_blank">
-    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turborepo" title="Turborepo" width="30px" />
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30px" />
   </a>
