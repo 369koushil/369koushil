@@ -11,7 +11,7 @@
 - 📫 How to reach me: **koushil463@gmail.com**  
 - 💼 Looking for full-time roles and internships — [My Resume](https://drive.google.com/file/d/1ONp0E7qqESHn7-Wf8ILXK5_sv90NSsfy/view?usp=sharing)  
 - 🌐 Personal Website: [koushil.xyz](https://koushil.xyz/)  
-- ⚡ Fun fact: I think work should feel like play — that's how you win!
+- ⚡ My motivation: I think work should feel like play — that's how you win!
 
 
 <h3 align="left">Connect with me:</h3>
